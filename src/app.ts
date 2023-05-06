@@ -1,5 +1,3 @@
-// import { create, Whatsapp, Message, SockectState } from "venom-bot";
+import Sender from './sender';
 
-class Sender {
-
-}
+const sender = new Sender();
